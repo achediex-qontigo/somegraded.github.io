@@ -5,7 +5,8 @@ This is a test of just-the-docs with some additions.
  - [ ] a way to show/hide a section
 
 <details>
-Table inside a container
+<summary>Table inside a container</summary>summary
+ 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
